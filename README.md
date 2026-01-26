@@ -856,3 +856,15 @@ This project builds a **Legal QA System** that:
 6. **Presents** through a Streamlit chat interface
 
 Users can ask natural language questions about legal contracts and receive accurate, cited answers from the custom knowledge base.
+
+
+---
+
+## 11. Contributing
+
+1. **Clone** the repository to your local system.
+2. **Create a new branch** for your feature or bugfix. Use `git checkout -b feature-name`.
+3. **Make your changes** and ensure all tests pass.
+4. **Commit your changes** with clear messages. Use `git commit -m "Description of changes"`.
+5. **Push your branch** to the remote repository. Use `git push origin feature-name`.
+6. **Open a Pull Request** on GitHub for review.
